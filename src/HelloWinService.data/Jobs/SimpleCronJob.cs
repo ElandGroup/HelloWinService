@@ -4,15 +4,17 @@ using System.Collections.Generic;
 using System.IO;
 using RestSharp;
 using HelloWinService.data.Service;
+using Common.Logging;
 
 namespace HelloWinService.data.Jobs
 {
     [DisallowConcurrentExecution]
     public class SimpleCronJob : IJob
     {
+        ILog log = LogManager.GetLogger("Logger");
         public void Execute(IJobExecutionContext context)
         {
-            SimpleService.TestCode();
+            log.Info("SimpleCronJob");
         }
 
         //private void SaveOrder()

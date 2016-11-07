@@ -16,3 +16,4 @@ C:\Users\Administrator\Desktop\HelloWinService\bin\main\Debug\HelloWinService.da
 C:\Users\Administrator\Desktop\HelloWinService\bin\main\Debug\HelloWinService.data.pdb
 C:\Users\Administrator\Desktop\HelloWinService\src\HelloWinService.data\obj\Debug\HelloWinService.data.dll
 C:\Users\Administrator\Desktop\HelloWinService\src\HelloWinService.data\obj\Debug\HelloWinService.data.pdb
+C:\Users\Administrator\Desktop\HelloWinService\src\HelloWinService.data\obj\Debug\HelloWinService.data.csprojResolveAssemblyReference.cache
