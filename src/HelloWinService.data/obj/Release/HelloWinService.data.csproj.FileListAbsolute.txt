@@ -1,0 +1,4 @@
+﻿D:\gitProjects\HelloWinService\bin\main\Release\HelloWinService.data.dll
+D:\gitProjects\HelloWinService\bin\main\Release\HelloWinService.data.pdb
+D:\gitProjects\HelloWinService\src\HelloWinService.data\obj\Release\HelloWinService.data.dll
+D:\gitProjects\HelloWinService\src\HelloWinService.data\obj\Release\HelloWinService.data.pdb
