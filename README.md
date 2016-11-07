@@ -96,4 +96,12 @@ log:
 
 ```
 
+### modify projectName
+
+```sh
+
+	ReplaceName tools in IE: http://10.202.101.10/ReplaceName/
+
+```
+
 Thank you
