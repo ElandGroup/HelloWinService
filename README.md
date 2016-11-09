@@ -80,6 +80,15 @@ ILog log = LogManager.GetLogger("Logger");
 log.Info("SimpleCronJob");
 
 ```
+### install
+```sh
+
+cd D:\github\HelloWinService\src\HelloWinService\bin\Release
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe -i HelloWinService.exe
+
+```
+
+
 ### Test result
 
 ```sh
