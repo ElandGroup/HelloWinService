@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using RestSharp;
 using HelloWinService.data.Service;
 using Common.Logging;
 
