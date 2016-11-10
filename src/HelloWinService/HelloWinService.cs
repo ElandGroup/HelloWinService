@@ -29,6 +29,7 @@ namespace HelloWinService
 
         protected override void OnStop()
         {
+            JobHelper.QuartzShutdown(false);
             log.Info("OrderCloud Service Stop...");
         }
     }

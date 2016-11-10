@@ -77,5 +77,9 @@ namespace HelloWinService.data
             // Tell quartz to schedule the job using our trigger
             scheduler.ScheduleJob(job, trigger);
         }
+        public static void QuartzShutdown(bool isWaitQuartzComplete)
+        {
+            scheduler.Shutdown(isWaitQuartzComplete);
+        }
     }
 }
